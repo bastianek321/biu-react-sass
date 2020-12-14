@@ -1,0 +1,26 @@
+{
+    "header": {
+        "text": "Popular web browsers",
+        "items": ["Home", "About", "Contact"]
+    },
+    "section": {
+        "articles": [
+            {
+                "title": "Google Chrome",
+                "photoURL": "https://www.logo.wine/a/logo/Google_Chrome/Google_Chrome-Logo.wine.svg",
+                "description": "Chrome is a web browser developed by Google, released in 2008. Chrome is the world's most popular web browser today."
+            },
+            {
+                "title": "Mozilla Firefox",
+                "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png",
+                "description": "Mozilla Firefox is an open-source web browser developed by Mozilla. Firefox has been the second most popular web browser since January, 2018."
+            },
+            {
+                "title": "Microsoft Edge",
+                "photoURL": "https://gallery.dpcdn.pl/imgc/News/93886/g_-_500x250_1.0_s_xa1caa207-a85b-43b5-be8c-c4411f75b06c.png",
+                "description": "Microsoft Edge is a web browser developed by Microsoft, released in 2015. Microsoft Edge replaced Internet Explorer."
+            }
+        ]
+    },
+    "footer": "Copyright by Bogate Interfejsy Webowe zadanie4 s19378"
+}
